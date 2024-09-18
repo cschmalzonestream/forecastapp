@@ -4,6 +4,7 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: forecastapp
   name: release
+  description: forecastapp
 spec:
   lifecycle: production
   owner: guests
