@@ -3,7 +3,7 @@ kind: Component
 metadata:
   annotations:
     backstage.io/kubernetes-id: forecastapp
-  name: forecastapp
+  name: release
 spec:
   lifecycle: production
   owner: my-team
