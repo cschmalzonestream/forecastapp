@@ -6,4 +6,5 @@ metadata:
   name: release
 spec:
   lifecycle: production
+  owner: my-team
   type: service
